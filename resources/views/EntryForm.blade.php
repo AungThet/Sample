@@ -198,7 +198,7 @@
 
     <script type="text/javascript" src="./js/jquery.js"></script>
     <script type="text/javascript" src="./js/smoothscroll.js"></script>
-    <script type="text/javascript" src="./js/inquiry-common.js"></script>
+    <script type="text/javascript" src="{!! url('/js/inquiry-common.js') !!}"></script>
 </body>
 
 </html>
